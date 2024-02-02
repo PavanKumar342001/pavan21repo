@@ -27,7 +27,11 @@ public static void main(String[] args) {
 
     System.out.println("Squared value of 10 is: " + result);
   }
+
   #feature202 is change by the kumar 
+    
+  #feature101 changes done by pavan on 12-01-2024 on saving module for HDFCfroject
+
   public class Main {
   static void myMethod() {
     System.out.println("I just got executed!");
@@ -35,8 +39,14 @@ public static void main(String[] args) {
 
   public static void main(String[] args) {
     myMethod();
+
     myMethod();
     myMethod();
   }
 }
+
+  }
+}
+
+
 }
