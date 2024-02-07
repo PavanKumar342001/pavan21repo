@@ -1,3 +1,5 @@
 Hi there is a 
 cat in the class
 can you catch him
+
+Webhooks allow interaction between web-based applications through the use of custom callbacks. The use of webhooks allows web applications to automatically communicate with other web-apps. Unlike traditional systems where one system (subject) keeps polling another system (observer) for some data, Webhooks allow the observer to push data into the subject’s system automatically whenever some event occurs.
